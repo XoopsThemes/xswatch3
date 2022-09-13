@@ -1,5 +1,7 @@
-xSwatch
-=======
+xSwatch3
+========
+
+This is the xswatch theme extracted from the pre-release XoopsCore25 XOOPS 2.5.11-Beta2
 
 xSwatch is a theme for [XOOPS 2.5](http://www.xoops.org) that is based on [Bootstrap](http://getbootstrap.com) 3.3.7.
 
